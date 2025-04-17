@@ -1,112 +1,68 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es" data-theme="dark">
+
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Clon de Google </title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Google Clon</title>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
 </head>
 
 <body>
-     
-    <header>
+  
+  <!-- Navbar -->
+  <header>
+    <nav class="navbar">
+      <button id="theme-toggle" class="material-icons"></button>
+      <a href="#">Gmail</a>
+      <a href="#">Images</a>
+      <span class="material-icons apps-icon">apps</span>
+      <div class="user-avatar"></div>
+    </nav>
+  </header>
 
-     <nav>
-            <ul class="options">
-                <li> <a class="gmail" href=""> Gmail </a></li>
-                <li> <a class="img" href=""> Imágenes </a></li>
-                <li class="tools"> <a href=""></a> </li>
-                <li class="foto"> <a href=""> </a></li>
-            </ul>
-     </nav>
+  <!-- Main Content -->
+  <main class="main-content">
 
-    </header>
-       
-    <main>
+    <img id="google-logo" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png"
+      alt="Google" class="logo" />
 
-        <section>
-            <div>
-            <img id="logo" src="https://www.google.com/logos/doodles/2022/seasonal-holidays-2022-6753651837109831.8-ladc.gif" alt="">
-            </div>
-        </section>
+    <div class="search-container">
+      <span class="material-icons search-icon">search</span>
+      <input type="text"/>
+      <div class="icons-right">
+        <span class="material-icons">mic</span>
+        <span class="material-icons">center_focus_strong</span>
+      </div>
+    </div>
 
-        <section>
+    <div class="buttons">
+      <button>Google Search</button>
+      <button>I'm Feeling Lucky</button>
+    </div>
+  </main>
 
-            <div class="centrar">
+  <!-- Footer -->
+  <footer>
+    <div class="footer-country">Colombia</div>
+    <div class="footer-links">
+      <div class="left-links">
+        <a href="#">About</a>
+        <a href="#">Advertising</a>
+        <a href="#">Business</a>
+        <a href="#">How Search works</a>
+      </div>
+      <div class="right-links">
+        <a href="#">Privacy</a>
+        <a href="#">Terms</a>
+        <a href="#">Configuration </a>
+      </div>
+    </div>
+  </footer>
 
-                <form>
-                    <div class="material-icons"> 
-                        <span class="material-icons-outlined"> search </span>
-                    </div>
+  <script src="script.js"></script>
 
-                    <input class="input-search" id="input-search" name="barra-busqueda" type="text">
-
-                    <div class="cursor">
-                        <div class="material-icons"> 
-                            <span class="material-icons-outlined" id="micro"> mic </span>
-                        </div> 
-                   </div>
-
-                   <div class="cursor">
-                        <div class="material-icons"> 
-                            <span class="material-icons-outlined" id="camera"> photo_camera </span>
-                        </div>
-                   </div>
-                </form>
-          
-            </div>
-
-        </section>
-
-        <section>
-            <div class="buttons">
-              
-                <a id="search" class=button-1 href="">
-                    Buscar con Google
-                </a>
-
-                <a id="lucky" class=button-1 href="">
-                    Me siento con suerte
-                </a>
-      
-            </div>
-        </section>
-
-        <section>
-            <p class="text">  Ofrecido por Google en: <a class="idioma" href=""> Español (Latinoamérica) </a> </p>
-        </section>
-
-    </main>
-
-    <footer>
-      
-        <section class="country">
-            <div>
-                <p> Colombia </p>
-            </div>
-        </section>
-        
-        <section class="info">
-
-            <div>
-                <a href=""> Sobre Google </a>
-                <a href=""> Publicidad </a>
-                <a href=""> Negocios </a>
-                <a href=""> Cómo funciona la Búsquedad </a>
-            </div>
-
-            <div>
-                <a href=""> Privacidad </a>
-                <a href=""> Condiciones </a>
-                <a href=""> Preferencias </a>
-            </div>
-
-        </section>
-     
-    </footer>
 </body>
+
 </html>

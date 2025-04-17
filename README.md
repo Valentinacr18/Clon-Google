@@ -1,40 +1,40 @@
-Especificaciones 
+# 🌐 Google Clone
 
-General:
+This is a clone of the Google home page created with **HTML**, **CSS** and **JavaScript**.  
 
-El tipo de letra es: 'Roboto', sans-serif
+---
 
-El color del fonde de la pagina es #202124
+## 🧩 Project structure
 
-Barra de busqueda:
+```
+google-clone/
+├── index.html     # Structure of the site
+├── styles.css     # Global styling and responsive design
+├── script.js      # Logic of theme and image change
+└── README.md      # Project documentation
 
-El color de los iconos es rgb(216, 220, 223)
+```
 
-El tamaño de los iconos es de 24px
+## 📦 Technologies used
 
-El color del fondo debe cambiar a #323438;
+- [HTML5](https://developer.mozilla.org/es/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/es/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+- [Material Icons](https://fonts.google.com/icons)
+- [Google Fonts](https://fonts.google.com/)
 
-Botones:
+---
 
-El color del fondo es #303134
+## 📚 Resources and useful documents
 
-El color del texto es #e8eaed
+- 🎨 [Dark Mode Guide with CSS and JS](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
+- 🧠 [Using localStorage](https://developer.mozilla.org/es/docs/Web/API/Window/localStorage)
+- 🔤 [Icons Material Guide](https://fonts.google.com/icons)
+- 📐 [Responsive Design Principles](https://web.dev/responsive-web-design-basics/)
+- 📄 [HTML official documentation](https://developer.mozilla.org/es/docs/Web/HTML)
 
-El color del borde es #303134
+---
 
-Seccion-parrafo:
 
-El color de la letra del link del idioma es #8ab4f8
 
-El color del texto es rgb(202, 198, 198)
-
-Footer:
-
-El color del fondo es #171717
-
-El color de la letra es #9aa0a6
-
-El tamaño del texto para el parrafo del pais es 15px
-
-El tamaño de texto para los links es 14px
 
