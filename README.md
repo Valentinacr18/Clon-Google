@@ -15,6 +15,10 @@ google-clone/
 
 ```
 
+![Demo](/assets/demo.gif)
+
+---
+
 ## 📦 Technologies used
 
 - [HTML5](https://developer.mozilla.org/es/docs/Web/HTML)
