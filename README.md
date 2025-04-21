@@ -14,6 +14,9 @@ google-clone/
 └── README.md      # Project documentation
 
 ```
+![Demo](./assets/demo.gif)
+
+```
 
 ## 📦 Technologies used
 
