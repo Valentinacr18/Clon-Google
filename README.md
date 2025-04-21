@@ -37,6 +37,7 @@ google-clone/
 
 ---
 
-
+![Dark mode:](./assets/dark-mode.JPG)
+![Light mode:](./assets/light-mode.JPG)
 
 
