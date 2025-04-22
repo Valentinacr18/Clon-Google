@@ -14,11 +14,6 @@ google-clone/
 └── README.md      # Project documentation
 
 ```
-
-## 👀 Take a look!
-![Demo](./assets/demo.gif)
-
-
 ---
 
 ## 📦 Technologies used
@@ -50,6 +45,6 @@ This project allowed me to reinforce key concepts of layout, responsive styling 
 ![Light mode](./assets/light-mode.JPG)
 
 ### ✨ Demo in action
-
+![Demo](./assets/demo.gif)
 
 
