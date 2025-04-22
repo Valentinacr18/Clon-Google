@@ -14,7 +14,11 @@ google-clone/
 └── README.md      # Project documentation
 
 ```
+
+## 👀 Take a look!
 ![Demo](./assets/demo.gif)
+
+
 ---
 
 ## 📦 Technologies used
@@ -37,7 +41,15 @@ google-clone/
 
 ---
 
-![Dark mode:](./assets/dark-mode.JPG)
-![Light mode:](./assets/light-mode.JPG)
+This project allowed me to reinforce key concepts of layout, responsive styling and dynamic behavior with JavaScript, such as switching between light and dark mode.
+
+### 🌙 Dark mode:
+![Dark mode](./assets/dark-mode.JPG)
+
+### ☀️ Light mode:
+![Light mode](./assets/light-mode.JPG)
+
+### ✨ Demo in action
+
 
 
