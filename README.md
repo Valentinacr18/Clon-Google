@@ -1,6 +1,15 @@
 # 🌐 Google Clone
 
-This is a clone of the Google home page created with **HTML**, **CSS** and **JavaScript**.  
+This project replicates Google's main interface created with **HTML**, **CSS** and **JavaScript** to show how it is possible to build clean, responsive and functional web experiences. It is an excellent basis for understanding how to structure a visually appealing search engine, with features such as theme switching (light/dark mode).
+
+### 🌙 Dark mode:
+![Dark mode](./assets/dark-mode.JPG)
+
+### ☀️ Light mode:
+![Light mode](./assets/light-mode.JPG)
+
+### ✨ Demo in action
+![Demo](./assets/demo.gif)
 
 ---
 
@@ -34,17 +43,6 @@ google-clone/
 - 📐 [Responsive Design Principles](https://web.dev/responsive-web-design-basics/)
 - 📄 [HTML official documentation](https://developer.mozilla.org/es/docs/Web/HTML)
 
----
 
-This project allowed me to reinforce key concepts of layout, responsive styling and dynamic behavior with JavaScript, such as switching between light and dark mode.
-
-### 🌙 Dark mode:
-![Dark mode](./assets/dark-mode.JPG)
-
-### ☀️ Light mode:
-![Light mode](./assets/light-mode.JPG)
-
-### ✨ Demo in action
-![Demo](./assets/demo.gif)
 
 
