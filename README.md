@@ -21,7 +21,6 @@ google-clone/
 ├── styles.css     # Global styling and responsive design
 ├── script.js      # Logic of theme and image change
 └── README.md      # Project documentation
-
 ```
 ---
 
