@@ -12,7 +12,6 @@ This project replicates Google's main interface created with **HTML**, **CSS** a
 ![Demo](./assets/demo.gif)
 
 ---
-
 ## 🧩 Project structure
 
 ```
@@ -23,7 +22,6 @@ google-clone/
 └── README.md      # Project documentation
 ```
 ---
-
 ## 📦 Technologies used
 
 - [HTML5](https://developer.mozilla.org/es/docs/Web/HTML)
@@ -33,7 +31,6 @@ google-clone/
 - [Google Fonts](https://fonts.google.com/)
 
 ---
-
 ## 📚 Resources and useful documents
 
 - 🎨 [Dark Mode Guide with CSS and JS](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/)
